@@ -1,16 +1,5 @@
 # settingui
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-10-17 at 10 15 16 PM (1)](https://user-images.githubusercontent.com/111416514/196235794-94137c69-d904-4171-8ce1-a313c3ccd037.jpeg)
+![WhatsApp Image 2022-10-17 at 10 15 16 PM](https://user-images.githubusercontent.com/111416514/196235802-6c071a74-a472-4e25-b069-61ebb6a2b294.jpeg)
